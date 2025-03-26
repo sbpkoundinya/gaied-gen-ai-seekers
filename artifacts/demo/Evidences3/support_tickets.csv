@@ -1,0 +1,2 @@
+Subject,Request Type,Sub Request Type,Deal Name,Amount,Expiration Date,Assigned Role,Reasoning
+Request for Loan Closure & Reallocation Fee Details,Closing Notice,Reallocation Fees,Loan account XXXXXXXXX1970,N/A,N/A,Closing Support,"The email is categorized as a Closing Notice request as the user is requesting to close their loan account. Additionally, the user specifically mentioned requesting a breakdown of any reallocation fees applicable, which falls under the Sub Request Type of Reallocation Fees."

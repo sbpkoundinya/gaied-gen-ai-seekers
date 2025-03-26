@@ -1,0 +1,2 @@
+Subject,Request Type,Sub Request Type,Deal Name,Amount,Expiration Date,Assigned Role,Reasoning
+Request,Money Movement - Outbound,Principal,SOFR(US) Term,"USD 20,000,000.00",20-Nov-2023,Outbound Support,"The email primarily focuses on the outbound money movement of USD 20,000,000.00 as repayment under the SOFR(US) Term option. Additionally, there is an adjustment made related to reallocation of principal balance from the previous amount to the new amount mentioned in the email."

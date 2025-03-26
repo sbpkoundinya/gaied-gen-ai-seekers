@@ -1,0 +1,449 @@
+﻿Sender Email,Subject,Body,Attachment Text,Image Text,OpenAI Response
+lalitha.becse@gmail.com,Inquiry on Ongoing Fee Payment,"Hi Team,
+
+I would like to confirm the details of my ongoing fee payment for account XXXXXXX1970. Please share the amount due and payment instructions.
+
+Thank you.
+
+Best regards,
+UserD",,,"{
+    ""Category"": [
+        {
+            ""Request Type"": ""Fee Payment"",
+            ""Sub Request Type"": ""Ongoing Fee""
+        }
+    ],
+    ""Deal Name"": ""N/A"",
+    ""Amount"": ""N/A"",
+    ""Expiration Date"": ""N/A"",
+    ""Reasoning"": ""The email is classified as Fee Payment with a sub request type of Ongoing Fee as the main intent of the email is to inquire about the ongoing fee payment for the specified account.""
+}"
+lalitha.becse@gmail.com,Payment Request,"HI Team,
+
+Please process an inbound principal payment of $1202 for loan XXXXXXXX1970. Let me know if further details are required.
+
+Thank you.
+
+Best regards,
+USERE",,,"{
+    ""Category"": [
+        {
+            ""Request Type"": ""Money Movement - Inbound"",
+            ""Sub Request Type"": ""Principal""
+        }
+    ],
+    ""Deal Name"": ""Loan XXXXXXXX1970"",
+    ""Amount"": ""$1202"",
+    ""Expiration Date"": ""N/A"",
+    ""Reasoning"": ""The main financial action in the email is to process an inbound principal payment, which falls under the Money Movement - Inbound category with a focus on Principal transactions.""
+}"
+sivakumar.thiyagarajan1@gmail.com,Query related to a bank offer,"Hi,
+
+
+I have query related to the below bank offer.
+
+
+
+
+
+
+Regards,
+User2",,"BANK OF AMERICA
+
+You're now logged out.
+
+Thanks for choosing Bank of America, We look forward to serving you again soon
+
+A special offer for you!
+
+Bank of America® Customized Cash Rewards credit card
+
+32000 zB
+
+online bonus offer
+
+D))
+
+Maximize your cash back
+on purchases in the category of your choice
+
+3% Pm» A & 8 X& B
+cash = uw ¢
+q A os
+
+back Tew
+
+22 at grocery stores 1 % _ onallother
+
+cash cash
+fer. and wholesale clubs fae, Purchases
+
+Up to $2,500 in combined choice category/grocery store/wholesale club quarterly purchases
+
+Show card benefits ¥
+
+Show me later No thanks
+
+‘tPlease see Terms and Conditions for rate, fee and other cost information, as well as an explanation of payment allocation. All terms may be
+subject to change.","{
+    ""Category"": [
+        {
+            ""Request Type"": ""Fee Payment"",
+            ""Sub Request Type"": ""Letter of Credit Fee""
+        },
+        {
+            ""Request Type"": ""Adjustment"",
+            ""Sub Request Type"": ""Amendment Fees""
+        }
+    ],
+    ""Deal Name"": ""Bank of America Customized Cash Rewards credit card"",
+    ""Amount"": ""32000"",
+    ""Expiration Date"": ""N/A"",
+    ""Reasoning"": ""The email mentions a bank offer related query, specifically mentioning a credit card offer from Bank of America with an online bonus offer of 32000 zB. The email also includes information about maximizing cash back on purchases and Terms and Conditions, indicating a fee payment for a Letter of Credit Fee and an Adjustment for Amendment Fees.""
+}"
+lalitha.becse@gmail.com,Query related to banking options,"Hello Team,
+
+
+
+
+I have the below query related to payments in the bank. Attached the transaction details.
+
+
+
+
+
+This is Query 1
+
+This is Query 2
+
+
+
+
+
+Regards,
+
+User1","This is an email attachment. 
+ 
+ 
+
+i) Bank
+
+America’s Most Convenient Bank®
+
+KE 2 CONTRACT LLC Page:
+
+3418 NORTHERN BLWD
+
+STE 412
+
+LONG ISLAND CITY NY 11101
+
+TD Business Premier Checking
+
+KE: CONTRACT LLC
+
+ACCOUNT SUMMYAR
+
+13,679.61 Average Collected Balance
+Interest Earned This Period
+
+Beginning Balance
+Deposits 29,853.39
+Electronics Deposits 217,653.02
+
+Others Credits
+
+Electronic Payments 166,112.54
+Other Withdrawals 44,413.00
+
+Ending Balance
+
+51,176.35
+
+STATEMENT OF ACCOUNT
+
+Statement Periods:
+Cust Ref #:
+Primary Account #:
+
+Interest Paid Year-to-Date
+515.87 Annual Percentage Yield Earned
+Days in Period
+
+‘TemplateLAB
+
+1Lof7
+
+Jul 01 2018-JUL 31 2018
+4354366572.719.7.***
+435-4367572
+
+Account # 435-4366572
+
+DAILY ACCOUNT ACTIVITY
+
+Deposits
+POSTING DATE
+07/02
+
+07/05
+
+07/12
+
+07/16
+
+07/20
+
+07/23
+
+07/30
+
+07/31
+
+DESCRIPTION
+
+CHECK DEPOSIT, 59317 LARSON CONTRACTORS.
+CHECK DEPOSIT, 29484 VISION MEDIA INC
+
+CHECK DEPOSIT, 3659 A D REAL ESTATE INVESTORS.
+CHECK DEPOSIT, 41825 JHACS ELECTRICAL
+
+CHECK DEPOSIT, 25208 VIDALES AND SONS
+DEPOSIT, COUNTER
+
+DEPOSIT, ATM
+
+DEPOSIT, ATM
+
+POSTING DATE
+07/02
+07/02
+07/02
+07/03
+07/03
+07/03
+07/04
+07/04
+07/04
+07/05
+07/05
+07/05
+07/06
+
+DESCRIPTION
+
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+ACH DEPOSIT, QUICKBOOKS DEPOSIT 479395622313
+
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+ACH DEPOSIT, QUICKBOOKS DEPOSIT 479395622313
+
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+ACH DEPOSIT, QUICKBOOKS DEPOSIT 479395622313
+
+ACH DEPOSIT, QUICKBOOKS DEPOSIT 479395622313
+
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+ACH DEPOSIT, QUICKBOOKS DEPOSIT 479395622313
+
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+CCD DEPOSIT, TO MERCHANT SVS DEPOSIT 958216955889
+
+AMOUNT
+3,750.00
+4,500.00
+4,245.00
+3,800.00
+3,758.00
+3,100.00
+4,022.00
+2,678.39
+
+29,853.39
+
+AMOUNT
+3,116.72
+2,262.14
+3,408.35
+3,393.51
+1,925.22
+3,063.97
+2,650.05
+1,746.83
+2,318.74
+3,562.60
+3,228.25
+3,745.48
+3,692.33
+
+Call 1-800-937-2000 for 24-hour Bank-by-Phone services or connect to www.tdbank.com
+
+‘Bank Deposits FDIC
+
+insured |TD Bank, NA
+
+ousing Lender {2}",,"{
+    ""Category"": [
+        {
+            ""Request Type"": ""Money Movement - Inbound"",
+            ""Sub Request Type"": ""Interest""
+        }
+    ],
+    ""Deal Name"": ""N/A"",
+    ""Amount"": ""515.87"",
+    ""Expiration Date"": ""N/A"",
+    ""Reasoning"": ""The email mentions interest earned in the bank statement, indicating an inbound money movement related to interest. This fits into the 'Money Movement - Inbound' category with a focus on 'Interest' as the primary request type.""
+}"
+sivakumar.thiyagarajan@outlook.com,Re: Request on my Loan account,"Hi Team,
+
+
+
+
+Please ignore my previous request instead I would like to process an inbound principal payment of $1202 for loan XXXXXXXX1970. Let me know if further details are required.
+
+Thank you.
+
+Best regards,
+
+USERC
+
+
+
+
+
+
+
+From: Sivakumar Thiyagarajan
+Sent: Wednesday, March 26, 2025 06:51
+To: lalitha.becse@gmail.com
+Subject: Request on my Loan account 
+
+
+
+
+Hi Team,
+
+I would like to close my loan account XXXXXXXXX1970 and request a breakdown of any reallocation fees applicable. Please provide the necessary steps for closure.
+
+Thank you.
+
+Best regards,
+USERC",,,"{
+    ""Category"": [
+        {
+            ""Request Type"": ""Money Movement - Inbound"",
+            ""Sub Request Type"": ""Principal""
+        }
+    ],
+    ""Deal Name"": ""Loan XXXXXXXX1970"",
+    ""Amount"": ""$1202"",
+    ""Expiration Date"": ""Not provided"",
+    ""Reasoning"": ""The main intent of the email is to process an inbound principal payment for loan XXXXXXXX1970, which falls under the Money Movement - Inbound category with a focus on Principal. The email explicitly mentions the request for processing a payment, making it the primary request type.""
+}"
+lalitha.becse@gmail.com,Request for Loan Adjustment,"Hi Team,
+
+I am writing to request an adjustment to my existing loan terms. Due to recent financial changes, I would like to explore the possibility of modifying my repayment schedule. Kindly provide details on the necessary documentation and process.
+
+Looking forward to your response.
+
+Best regards,
+UserA",,,"{
+    ""Category"": [
+        {
+            ""Request Type"": ""Adjustment"",
+            ""Sub Request Type"": ""nan""
+        }
+    ],
+    ""Deal Name"": ""Existing Loan Terms"",
+    ""Amount"": ""nan"",
+    ""Expiration Date"": ""nan"",
+    ""Reasoning"": ""The email is focused on requesting an adjustment to the existing loan terms, indicating a need for a modification in the repayment schedule. This aligns with the primary request type of Adjustment.""
+}"
+lalitha.becse@gmail.com,Request for Loan Closure & Reallocation Fee Details,"Hi Team,
+
+I would like to close my loan account XXXXXXXXX1970 and request a breakdown of any reallocation fees applicable. Please provide the necessary steps for closure.
+
+Thank you.
+
+Best regards,
+USERC",,,"**Response JSON:**
+```json
+{
+    ""Category"": [
+        {
+            ""Request Type"": ""Closing Notice"",
+            ""Sub Request Type"": ""Reallocation Fees""
+        }
+    ],
+    ""Deal Name"": ""Loan account XXXXXXXXX1970"",
+    ""Amount"": ""Not specified"",
+    ""Expiration Date"": ""Not specified"",
+    ""Reasoning"": ""The email is categorized as a Closing Notice with a Sub Request Type of Reallocation Fees as the main intent is to close the loan account and request information on any reallocation fees applicable.""
+}
+```"
+lalitha.becse@gmail.com,Request,"Hi Team,
+
+
+
+
+Effective from 10-Nov-2023, UserA has elected to repay under SOFR(US) Term option, a total of USD 20,000,000.00.
+
+
+
+
+Previous Global principal balance: USD 45,000,000.00
+
+New Global principal balance: USD 25,000,000.00
+
+
+
+
+This loan was effective 20-Jul-2023 and is scheduled to reprice on 20-Nov-2023.
+
+
+
+
+Your share of the USD 20000000 SOFR(US) Term option payment is USD 1,411,764.71.
+
+New Lender Share Principal Balance: USD 1,764,705.88.
+
+
+
+
+
+
+
+We will remit USD 1,411,764.71 on the effective date. Please note that (i) if the Borrower has not in fact made such payment; or (ii) any payment you receive is in excess of what was paid by the Borrower or (iii)we notify you that the payment was errorneously
+ made, then pursuant to the provisions of the credit facility, you agree to return such payment.
+
+
+
+
+ABA Number: XXXXXX48
+
+Account No: XXXXXXXXXXXXX720
+
+
+
+
+Reference: SOFR(US) Term Principal Payment
+
+
+
+
+Regards,
+
+XXXX",,,"{
+    ""Category"": [
+        {
+            ""Request Type"": ""Money Movement - Outbound"",
+            ""Sub Request Type"": ""Foreign Currency""
+        }
+    ],
+    ""Deal Name"": ""SOFR(US) Term Principal Payment"",
+    ""Amount"": ""USD 1,411,764.71"",
+    ""Expiration Date"": ""10-Nov-2023"",
+    ""Reasoning"": ""The primary financial action in the email is the outbound money movement involving the repayment under SOFR(US) Term option in the amount of USD 1,411,764.71. The email specifies the currency and effective date, fitting into the Money Movement - Outbound category with a focus on Foreign Currency.""
+}"

@@ -1,0 +1,19 @@
+﻿Sender Email,Subject,Body,Attachment Text,Image Text,OpenAI Response
+lalitha.becse@gmail.com,Request for Loan Closure & Reallocation Fee Details,"Hi Team,
+I would like to close my loan account XXXXXXXXX1970 and request a breakdown of any reallocation fees applicable. Please provide the necessary steps for closure.
+Thank you.
+Best regards,
+USERC
+
+",,,"{
+    ""Category"": [
+        {
+            ""Request Type"": ""Closing Notice"",
+            ""Sub Request Type"": ""Reallocation Fees""
+        }
+    ],
+    ""Deal Name"": ""Loan account XXXXXXXXX1970"",
+    ""Amount"": ""N/A"",
+    ""Expiration Date"": ""N/A"",
+    ""Reasoning"": ""The email is categorized as a Closing Notice request as the user is requesting to close their loan account. Additionally, the user specifically mentioned requesting a breakdown of any reallocation fees applicable, which falls under the Sub Request Type of Reallocation Fees.""
+}"

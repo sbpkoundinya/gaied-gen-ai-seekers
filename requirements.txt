@@ -1,0 +1,6 @@
+pandas
+openai
+langchain
+pytesseract
+pillow
+pymupdf

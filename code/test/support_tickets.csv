@@ -1,0 +1,2 @@
+Subject,Request Type,Sub Request Type,Deal Name,Amount,Expiration Date,Assigned Role,Reasoning
+Request,Money Movement - Outbound,Foreign Currency,SOFR(US) Term,"USD 1,411,764.71",20-Nov-2023,Outbound Support,"The email primarily focuses on a financial adjustment related to a repayment under the SOFR(US) Term option, involving an Amendment Fee. The outbound money movement in foreign currency is specified for remitting the payment on the effective date, with the relevant expiration date for repricing mentioned as 20-Nov-2023."

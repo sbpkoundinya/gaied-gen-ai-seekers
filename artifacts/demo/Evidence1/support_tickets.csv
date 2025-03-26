@@ -1,0 +1,2 @@
+Subject,Request Type,Sub Request Type,Deal Name,Amount,Expiration Date,Assigned Role,Reasoning
+Request,Money Movement - Outbound,Timebound,SOFR(US) Term,"USD 1,411,764.71",20-Nov-2023,Outbound Support,"The main intent of the email is to inform about the repayment under SOFR(US) Term option, involving an outbound money movement transaction of USD 1,411,764.71 with a timebound expiration date of 20-Nov-2023."

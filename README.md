@@ -14,26 +14,24 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Email classifier with text extraction from email and attchments and OCR for text extraction from Image, Extracted text used to call OpenAI with request type and sub request type to identify the key attributes and reason for the classfication type. Duplication handled, Multiple request handled and Recent request prediction among multiple reply emails contents.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+🔗 Demo attached
 
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+Learnt how to build Python app to call OpenAI API to have the better classification. Used ChatGPT for prompt validation for multiple scenarios.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Email Classification using OpenAI and OCR text extraction
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Used Python,OCR,PyMuPDF,pandas, LangChain, gpt-3.5-turbo model.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+OpenAI API call limit with free tier is not useful which is exhasted immediately. I used Premium tier for the validation which is available only after billing.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -42,18 +40,15 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   python main.py
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Python
 
 ## 👥 Team
 - **Your Name** - [GitHub](#) | [LinkedIn](#)
