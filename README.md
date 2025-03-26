@@ -59,7 +59,7 @@ The system is designed to integrate seamlessly with financial service workflows,
 ---
 
 ## Architecture
-![arch](https://github.com/user-attachments/assets/bbbed8cd-dbb5-4f09-8752-3762c0080981)
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/8c156a2d-8949-4620-a82e-7d4e534cebf7" />
 
 ---
 
