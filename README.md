@@ -64,7 +64,7 @@ The system is designed to integrate seamlessly with financial service workflows,
 ---
 
 ## Sequence Diagram
-![Sequence_Diagram](https://github.com/user-attachments/assets/65e51eea-4ff9-42ff-8a42-dd28dff47b93)
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/e5fe8461-6432-4cd6-b9d9-f55b5c5b9d4c" />
 
 ---
 
